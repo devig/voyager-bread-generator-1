@@ -1,14 +1,14 @@
 {
-    "name": "muhameddidovic/voyager-bread-generator-updated",
+    "name": "devig/voyager-bread-generator-updated",
     "description": "Create BREAD from the console using artisan updated",
     "tags": ["voyager", "bread generator"],
     "type": "library",
     "require": {
-        "tcg/voyager": "^1.0"
+        "tcg/voyager": "*"
     },
     "require-dev": {
-        "laravel/laravel": "^7.0",
-        "larapack/hooks": "~1.0"
+        "laravel/laravel": "*",
+        "larapack/hooks": "*"
     },
     "license": "MIT",
     "authors": [
